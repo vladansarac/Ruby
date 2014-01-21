@@ -20,3 +20,4 @@ puts dokument.author
 dokument.author = "Milan"
 puts dokument.author
 dokument.to_s
+puts "Izmjena"
